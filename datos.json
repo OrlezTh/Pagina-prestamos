@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "rosario orellana",
+        "idcuota": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Arias Norma Rocio",
+        "idcuota": 2
+    },
+    {
+        "id": 3,
+        "nombre": "prueba ult fecha",
+        "idcuota": 3
+    },
+    {
+        "id": 4,
+        "nombre": "Nadia Canete",
+        "idcuota": 4
+    },
+    {
+        "id": 5,
+        "nombre": "Rosario Orellana",
+        "idcuota": 5
+    },
+    {
+        "id": 6,
+        "nombre": "Norma Rocio Aria",
+        "idcuota": 6
+    }
+]

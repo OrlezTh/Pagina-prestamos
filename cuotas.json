@@ -1,0 +1,87 @@
+[
+    {
+        "id_prestamo": 4,
+        "id_cliente": 4,
+        "Prestado": 200000.0,
+        "cantidad_cuotas_mes": 4,
+        "monto_fijo_cuota": 105000.0,
+        "plan_pagos": [
+            {
+                "nro_cuota": 1,
+                "vencimiento": "2026-05-02",
+                "monto_a_pagar": 105000.0,
+                "estado": "Pendiente",
+                "recargo_por_atraso": 0
+            },
+            {
+                "nro_cuota": 2,
+                "vencimiento": "2026-06-02",
+                "monto_a_pagar": 105000.0,
+                "estado": "Pendiente",
+                "recargo_por_atraso": 0
+            },
+            {
+                "nro_cuota": 3,
+                "vencimiento": "2026-07-02",
+                "monto_a_pagar": 105000.0,
+                "estado": "Pendiente",
+                "recargo_por_atraso": 0
+            },
+            {
+                "nro_cuota": 4,
+                "vencimiento": "2026-07-02",
+                "monto_a_pagar": 105000.0,
+                "estado": "Pendiente",
+                "recargo_por_atraso": 0
+            }
+        ]
+    },
+    {
+        "id_prestamo": 5,
+        "id_cliente": 5,
+        "Prestado": 50000.0,
+        "cantidad_cuotas_mes": 3,
+        "monto_fijo_cuota": 33000.0,
+        "plan_pagos": [
+            {
+                "nro_cuota": 1,
+                "vencimiento": "2026-05-02",
+                "monto_a_pagar": 33000.0,
+                "estado": "Pendiente",
+                "recargo_por_atraso": 0
+            },
+            {
+                "nro_cuota": 2,
+                "vencimiento": "2026-06-02",
+                "monto_a_pagar": 33000.0,
+                "estado": "Pendiente",
+                "recargo_por_atraso": 0
+            },
+            {
+                "nro_cuota": 3,
+                "vencimiento": "2026-07-02",
+                "monto_a_pagar": 33000.0,
+                "estado": "Pendiente",
+                "recargo_por_atraso": 0
+            }
+        ]
+    },
+    {
+        "id_prestamo": 6,
+        "id_cliente": 6,
+        "Prestado": 25000.0,
+        "cantidad_cuotas_mes": 1,
+        "monto_fijo_cuota": 40000.0,
+        "plan_pagos": [
+            {
+                "nro_cuota": 1,
+                "vencimiento": "2026-04-17",
+                "monto_a_pagar": 40000.0,
+                "estado": "Pendiente",
+                "recargo_por_atraso": 0
+            }
+        ]
+    }
+        
+    
+]

@@ -1,0 +1,7 @@
+# Ignorar carpetas de entorno y caché
+venv/
+site-packages/
+__pycache__/
+*.pyc
+*.pyd
+*.dist-info/
